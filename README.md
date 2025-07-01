@@ -1,10 +1,15 @@
 # MULTITHREADED-CHAT-APPLICATION
 
 *COMPANY*: CODTECH IT SOLUTIONS
+
 *NAME*: Dirghayush Umakant Sogale
+
 *INTERN ID*: CITS0D178
+
 *DOMAIN*: Network Programming and Multithreading in Java
+
 *DURATION*: 4 WEEKS
+
 *MENTOR*: NEELA SANTOSH
 
 # DESCRIPTION OF TASK:
