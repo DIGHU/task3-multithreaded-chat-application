@@ -27,3 +27,6 @@ The application runs in a command-line interface. When a client starts, it promp
 This task enhanced my practical understanding of core Java concepts like classes, threads, exceptions, and networking. It also helped me understand how real-time communication applications are structured and managed in backend systems.
 
 By the end of the internship, I had successfully developed and tested a basic but functional chat system capable of supporting multiple concurrent users in real-time.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/cb173882-a5c2-4adb-bc58-d53039946220)
